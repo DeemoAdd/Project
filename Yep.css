@@ -1,0 +1,21 @@
+.align {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: auto;
+  color: white;
+}
+.stick {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 55px;
+  margin-bottom: 60px
+}
+
+.margin {
+  margin-left: 50px;
+}
+
+.margintop {
+  margin-top: 40px;
+}
